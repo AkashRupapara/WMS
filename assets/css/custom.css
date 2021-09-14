@@ -1,0 +1,16 @@
+.container{
+	background: url(../images/_bg_1.jpg);
+}
+
+.jumbotron {
+
+	border: 1px dashed black;
+	 background-color: lightblue;
+}
+
+.task-description {
+	background: white;
+	padding: 20px;
+	border-radius: 6px;
+	box-shadow: 0px 0px 3px 1px;
+}
